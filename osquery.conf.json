@@ -1,0 +1,15 @@
+config_json = '''
+{
+
+  "options": {
+
+    "disable_carver": false,
+
+    "carver_disable_function": false,
+
+    "carver_compression": false
+
+  }
+
+}
+'''
